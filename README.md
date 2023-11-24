@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F79018&vCenter=true&random=false&width=435&lines=Bienvenue+sur+mon+GitHub.%F0%9F%8E%80)](https://git.io/typing-svg)
-
-![](https://gitwar.herokuapp.com/badge?username=ChloeThiel)
+# Bienvenue.✨
 
 Je m'appelle **Chloé Thiel**, développeuse de **22 ans** spécialisée dans le développement Front-end avec React ⚛️. 
-Je suis Alumni de l'école O'clock *(Promotion Oz en 2020)* et actuellement étudiante à l'école 42 *(Piscine de Septembre 2023 - cthiel)*.✨
+Je suis Alumni de l'école O'clock *(Promotion Oz en 2020)* et actuellement étudiante à l'école 42 *(Piscine de Septembre 2023 - cthiel)*.
 
 ## Compétences.💻
 Voici toutes les technologies que j'utilise:
