@@ -1,7 +1,7 @@
-# Bienvenuuue.👩‍💻 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F79018&vCenter=true&random=false&width=435&lines=Bienvenue+sur+mon+GitHub.%F0%9F%8E%80)](https://git.io/typing-svg)
 
-Je m'appelle **Chloé Thiel**, une développeuse de **22 ans** spécialisée dans le développement Front-end avec React ⚛️. 
-Je suis Alumni de l'école O'clock *(Promotion Oz en 2020)* et actuellement étudiante à l'école 42 *(Piscine Septembre 2023 - cthiel)*.✨
+Je m'appelle **Chloé Thiel**, développeuse de **22 ans** spécialisée dans le développement Front-end avec React ⚛️. 
+Je suis Alumni de l'école O'clock *(Promotion Oz en 2020)* et actuellement étudiante à l'école 42 *(Piscine de Septembre 2023 - cthiel)*.✨
 
 ## Compétences.💻
 Voici toutes les technologies que j'utilise:
@@ -29,9 +29,10 @@ Outils:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+
+Éditeurs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 CMS:
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
