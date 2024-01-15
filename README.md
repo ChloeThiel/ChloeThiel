@@ -2,6 +2,7 @@
 
 Je m'appelle **Chloé Thiel**, développeuse de **22 ans** spécialisée dans le développement Front-end avec React ⚛️. 
 Je suis Alumni de l'école O'clock *(Promotion Oz en 2020)* et actuellement étudiante à l'école 42 *(Piscine de Septembre 2023 - cthiel)*.
+[![cthiel's 42 stats](https://badge.mediaplus.ma/starryblue/cthiel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## Compétences.💻
 Voici toutes les technologies que j'utilise:
